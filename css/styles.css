@@ -1,0 +1,40 @@
+#landingpage{
+  color: white;
+  text-align: center;
+  background-image: url("/home/sunday/Desktop/Anitas-kitchen/images/backgrounds/landing.jpg");
+}
+
+
+#Partytime{
+  padding: 20px;
+  text-align: center;
+  background-color: #F15A29;
+  color:white;
+}
+#Happyhour{
+  padding: 20px;
+
+  text-align: center;
+}
+
+#breakfast {
+  padding: 100px;
+  background-repeat: no-repeat;
+  color:white;
+  text-align:center;
+  background-image: url("/home/sunday/Desktop/Anitas-kitchen/images/foodtop/breakfast.jpg");
+}
+#lunch {
+  background-repeat: no-repeat;
+  padding:100px;
+  color:white;
+  text-align: center;
+  background-image: url("/home/sunday/Desktop/Anitas-kitchen/images/foodtop/lunch.jpg");
+}
+#dinner {
+  background-repeat: no-repeat;
+  padding: 100px;
+  color:white;
+  text-align: center;
+  background-image: url("/home/sunday/Desktop/Anitas-kitchen/images/foodtop/dinner.jpg");
+}
