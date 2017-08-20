@@ -114,14 +114,50 @@ padding: 100px;
 }
 
 
+.section5Anita{
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+#customerTestimonialRow {
+  box-shadow: 0 0 30px #888888;
+  text-align: center;
+}
+#customerTestimonialRow h2{
+    color: #F15A29;
+}
+
+
+#customerTestimonialColumn{
+  border-right: 1px solid black;
+
+}
+
+
 
 .section6Anita{
 background-image: url("../images/backgrounds/subscribe.jpg");
 padding-bottom: 200px;
+background-size: cover;
+padding-top: 55px;
+text-align: center;
 color: white;
 background-repeat: no-repeat;
 
 }
+
+#subscribeEmail{
+
+  width: 400px;
+}
+#subscriptionButton{
+  background-color: #F15A29;
+  width: 220px;
+}
+
+
 .section7Anita{
     background-color: #F15A29;
     color: white;
