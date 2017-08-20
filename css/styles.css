@@ -48,22 +48,30 @@
   background-image: url("../images/foodtop/dinner.jpg");
 }
 
-/*section3Anita*/
-#fastFoodsImages{
+/*section3Anita styling*/
+#fastFoodsImages,#drinksImages{
     border: 5px solid white;
     box-shadow: 0 0 30px #888888;
 }
 
-#fastFoodRow {
+#fastFoodRow,#drinksRow {
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 50px;
     padding-top: 50px;
 }
 
-#fastFood1,#fastFood2 {
+#fastFood1 {
   padding-left: 50px;
   padding-right: 50px;
+  padding-top: 20px;
+
+}
+
+#fastFood2{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
 
 }
 #fastFoodButton,#drinksButton {
@@ -71,6 +79,18 @@
     text-align: center;
     color:  #F15A29;
     border: 2px solid  #F15A29;
+}
+
+
+#drinksImage1{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
+#drinksImage2{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right:50px;
 }
 
 
