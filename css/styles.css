@@ -1,7 +1,13 @@
 #landingpage{
+  height: 100%;
+  width: 100%;
   color: white;
   text-align: center;
   background-image: url("../images/backgrounds/landing.jpg");
+<<<<<<< HEAD
+=======
+  font-size: 30px;
+>>>>>>> gh-pages
 }
 
 
