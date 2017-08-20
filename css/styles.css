@@ -14,6 +14,7 @@
 
 
 #Partytime{
+
   padding: 20px;
   text-align: center;
   background-color: #F15A29;
@@ -21,6 +22,7 @@
 }
 
 #Happyhour{
+
   padding: 22px;
   color: black;
  text-align: center;
@@ -124,6 +126,11 @@ padding-bottom: 50px;
 #customerTestimonialRow {
   box-shadow: 0 0 30px #888888;
   text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+
 }
 #customerTestimonialRow h2{
     color: #F15A29;
@@ -150,9 +157,12 @@ background-repeat: no-repeat;
 
 #subscribeEmail{
 
+  background: rgba(0, 0, 0, 0.8);
   width: 400px;
 }
+
 #subscriptionButton{
+  text-align: center;
   background-color: #F15A29;
   width: 220px;
 }
