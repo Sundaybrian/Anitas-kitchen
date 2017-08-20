@@ -158,7 +158,26 @@ background-repeat: no-repeat;
 }
 
 
+
 .section7Anita{
     background-color: #F15A29;
     color: white;
+    padding-left: 600px;
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+
+#menuFooter{
+    float: left;
+    padding-right: 10px;
+}
+
+
+#footerSlogan{
+  padding-top: 35px;
+}
+
+#copyright{
+    padding-top: 55px;
+    padding-bottom: 20px;
 }
