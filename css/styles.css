@@ -1,4 +1,5 @@
 #landingpage{
+  font-size: 30px;
   height: 100%;
   width: 100%;
   color: white;
@@ -44,4 +45,18 @@
   color:white;
   text-align: center;
   background-image: url("../images/foodtop/dinner.jpg");
+}
+
+
+
+.section6Anita{
+background-image: url("../images/backgrounds/subscribe.jpg");
+padding-bottom: 200px;
+color: white;
+background-repeat: no-repeat;
+
+}
+.section7Anita{
+    background-color: #F15A29;
+    color: white;
 }
