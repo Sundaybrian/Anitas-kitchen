@@ -93,6 +93,27 @@
   padding-right:50px;
 }
 
+.section4Anita{
+background-image: url("../images/backgrounds/foodsBg.jpg");
+background-size: cover;
+padding: 100px;
+}
+
+.container{
+    padding: 30px;
+    background-color: white;
+    color: #F15A29;
+}
+.icon-next,.icon-prev,.nav-tabs>li>a{
+    color: #F15A29;
+}
+
+/*removes that weird blue or gray color from the them*/
+.carousel-control.left, .carousel-control.right {
+   background-image:none
+}
+
+
 
 .section6Anita{
 background-image: url("../images/backgrounds/subscribe.jpg");
