@@ -17,10 +17,11 @@
   background-color: #F15A29;
   color:white;
 }
-#Happyhour{
-  padding: 20px;
 
-  text-align: center;
+#Happyhour{
+  padding: 22px;
+  color: black;
+ text-align: center;
 }
 
 #breakfast {
